@@ -16,7 +16,7 @@ Vamos criar uma tabela com o nome `months` em que haverá três colunas:
 
 ```CREATE TABLE months (id int, name varchar(10), days int);```
 
-Além disso, ao criar tabelas, é costume adicionar a chamada chave primária. Esta é uma coluna cujos valores são únicos. Na maioria das vezes, a coluna principal é id, mas no nosso caso também pode ser nome, já que os nomes de todos os meses são únicos. Para mais informações, entre em [SQL PRIMARY KEY Constraint](https://www.w3schools.com/sql/sql_primarykey.asp).
+Além disso, ao criar tabelas, é costume adicionar a chamada primary key. Esta é uma coluna cujos valores são únicos. Na maioria das vezes, a coluna principal é id, mas no nosso caso também pode ser nome, já que os nomes de todos os meses são únicos. Para mais informações, entre em [SQL PRIMARY KEY Constraint](https://www.w3schools.com/sql/sql_primarykey.asp).
 
 ## Entrada de dados
 
