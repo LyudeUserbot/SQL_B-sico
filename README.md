@@ -52,7 +52,7 @@ Além disso, às vezes precisamos classificar a saída. Para isso, usamos `ORDER
 
 Agora sabemos como mostrar apenas colunas específicas, mas e se quisermos incluir apenas algumas linhas específicas na saída? Para fazer isso, usamos `Where`. Esta keyword nos permite filtrar dados por uma condição específica.
 
-Apenas listaremos personagens que usam uma arma como arma.
+Apenas listaremos personagens que usam uma pistola como arma.
 
 ``` SELECT * 
 FROM characters
