@@ -1,6 +1,6 @@
 # Introdução a SQL
 
-Todo desenvolvedor web que se respeite deve conhecer o SQL, entra os tópicos: [ActiveRecord](https://guides.rubyonrails.org/active_record_basics.html), [Doutrina](http://www.doctrine-project.org/), [Hibernar](http://hibernate.org/orm/) e muitos outros. Apesar disso, às vezes você tem que "sujar as mãos" e entrar no SQL real.
+Todo desenvolvedor web que se respeite deve conhecer o SQL, entre os tópicos: [ActiveRecord](https://guides.rubyonrails.org/active_record_basics.html), [Doutrina](http://www.doctrine-project.org/), [Hibernar](http://hibernate.org/orm/) e muitos outros. Apesar disso, às vezes você tem que "sujar as mãos" e entrar no SQL real.
 
 Esta é uma breve introdução na qual será pelas coisas fundamentais no SQL:
 
